@@ -44,5 +44,32 @@
     </section>
     </body>
     </html>
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}x
 
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: nome;
+    align-items: center;
+    padding: 16px;
+}
+a{ 
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 500%;
+    border: 5px solid green;
+}
+
+.center{
+    text-align: center;
+}
 
